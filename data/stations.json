@@ -1,0 +1,131 @@
+{
+  "stations": {
+    "qmusic": {
+      "name": "Q music",
+      "url": "https://stream.qmusic.nl/qmusic/mp3",
+      "image": "./img/qmusic.png"
+    },
+    "qmusic-fouteuur": {
+      "name": "Q music - Foute Uur",
+      "url": "https://stream.qmusic.nl/fouteuur/mp3",
+      "image": "./img/qmusic.png"
+    },
+    "qmusic-nonstop": {
+      "name": "Q music - Non Stop",
+      "url": "https://stream.qmusic.nl/nonstop/mp3",
+      "image": "./img/qmusic.png"
+    },
+    "qmusic-summer": {
+      "name": "Q music - Summer",
+      "url": "https://stream.qmusic.nl/thema/mp3",
+      "image": "./img/qmusic.png"
+    },
+    "qmusic-top40": {
+      "name": "Q music - Top 40",
+      "url": "https://stream.qmusic.nl/top40/mp3",
+      "image": "./img/qmusic.png"
+    },
+    "qmusic-90s-00s": {
+      "name": "Q music - 90s & 00s",
+      "url": "https://stream.qmusic.nl/90s-00s/mp3",
+      "image": "./img/qmusic.png"
+    },
+
+
+    "radio538": {
+      "name": "Radio 538",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3",
+      "image": "./img/radio538.png"
+    },
+    "radio538-classic": {
+      "name": "Radio 538 - Classics",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR08.mp3",
+      "image": "./img/radio538.png"
+    },
+    "radio538-hitzone": {
+      "name": "Radio 538 - Hitzone",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR11.mp3",
+      "image": "./img/radio538.png"
+    },
+    "radio538-ibiza": {
+      "name": "Radio 538 - Ibiza",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR19.mp3",
+      "image": "./img/radio538.png"
+    },
+    "radio538-nonstop": {
+      "name": "Radio 538 - Non Stop",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR09.mp3",
+      "image": "./img/radio538.png"
+    },
+    "radio538-party": {
+      "name": "Radio 538 - Party",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR16.mp3",
+      "image": "./img/radio538.png"
+    },
+    "radio538-90s-hits": {
+      "name": "Radio 538 - 90s Hist",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR21.mp3",
+      "image": "./img/radio538.png"
+    },
+    "radio538-zomer": {
+      "name": "Radio 538 - Zomer",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR06.mp3",
+      "image": "./img/radio538.png"
+    },
+
+
+    "slamfm": {
+      "name": "Slam FM",
+      "url": "https://stream.slam.nl/slam_mp3",
+      "image": "./img/slamfm.png"
+    },
+    "slamfm-00": {
+      "name": "Slam FM - 00",
+      "url": "https://stream.slam.nl/web15_mp3",
+      "image": "./img/slamfm.png"
+    },
+    "slamfm-hardstyle": {
+      "name": "Slam FM - Hardstyle",
+      "url": "https://stream.slam.nl/web11_mp3",
+      "image": "./img/slamfm.png"
+    },
+    "slamfm-mixmarathon": {
+      "name": "Slam FM - Mix Marathon",
+      "url": "https://stream.slam.nl/web13_mp3",
+      "image": "./img/slamfm.png"
+    },
+    "slamfm-nonstop": {
+      "name": "Slam FM - Non Stop",
+      "url": "https://stream.slam.nl/web10_mp3",
+      "image": "./img/slamfm.png"
+    },
+    "slamfm-summer": {
+      "name": "Slam FM - Sumer",
+      "url": "https://stream.slam.nl/web08_mp3",
+      "image": "./img/slamfm.png"
+    },
+    "slamfm-tgeboomroom": {
+      "name": "Slam FM - The Boom Room",
+      "url": "https://stream.slam.nl/web12_mp3",
+      "image": "./img/slamfm.png"
+    },
+
+
+    "radio-nl": {
+      "name": "Radio NL",
+      "url": "https://stream.radionl.fm/radionl",
+      "image": "./img/radionl.png"
+    },
+    "radio-nl-kids": {
+      "name": "Radio NL - Kids",
+      "url": "https://stream.radionlkids.nl/rnlkids",
+      "image": "./img/radionl.png"
+    },
+	
+	"België-nostalgie": {
+		"name": "Nostalgie 70s 80s 90s",
+		"url": "https://25453.live.streamtheworld.com/NOSTALGIEWHATAFEELING.mp3",
+		"image": "./img/nostalgie70s80s90s.png"
+	}
+  }
+}
